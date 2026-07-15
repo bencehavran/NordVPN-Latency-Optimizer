@@ -198,7 +198,7 @@ The script automatically discovers all available servers in that country.
 
 Example:
 
-<img width="969" height="1382" alt="image" src="https://github.com/user-attachments/assets/86624433-aa62-4d2a-89a8-32a1361ebef0" />
+<img width="669" height="1082" alt="image" src="https://github.com/user-attachments/assets/86624433-aa62-4d2a-89a8-32a1361ebef0" />
 
 
 
