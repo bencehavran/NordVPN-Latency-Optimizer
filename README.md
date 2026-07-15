@@ -63,20 +63,7 @@ Supported:
 
 Required:
 
-
 Windows PowerShell 5.1 or newer
-
-
-Check your version:
-
-```powershell
-$PSVersionTable.PSVersion
-```
-
-PowerShell 7 is also supported.
-
-You need:
-
 Active NordVPN subscription
 Internet connection
 
