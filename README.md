@@ -62,7 +62,7 @@ Supported:
 ## PowerShell
 
 Required:
-
+```
 Windows PowerShell 5.1 or newer
 Active NordVPN subscription
 Internet connection
