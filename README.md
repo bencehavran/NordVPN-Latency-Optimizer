@@ -27,18 +27,16 @@ The script automatically tests NordVPN German servers and generates a ranked lis
 
 ## Usage
 
-Download:
 
-git clone https://github.com/YOURNAME/NordVPN-Latency-Optimizer.git
+1. Download the `NordVPN-Latency-Optimizer.ps1` file from the GitHub repository.
 
-.\NordVPN-Latency-Optimizer.ps1
+2. Save the file, for example, in your Downloads folder.
 
+3. Open PowerShell and navigate to the folder where the script was saved.
+   
 The result will be created:
 
-
 best-server.txt
-
-
 
 Example:
 
