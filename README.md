@@ -1,5 +1,5 @@
 # NordVPN-Latency-Optimizer
-Powershell script that automatically find the fastest NordVPN servers based on real-world latency, jitter and NordVPN server load.
+PowerShell script that automatically finds the best NordVPN servers based on latency, jitter, and server load from your own network connection.
 
 The script dynamically retrieves the current NordVPN server list through the NordVPN API, tests the selected country's servers from your own connection, calculates a quality score, and generates a ranked list of the best available servers.
 
