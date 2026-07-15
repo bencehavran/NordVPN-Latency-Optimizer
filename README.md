@@ -189,17 +189,6 @@ United States:
 us
 ```
 
-France:
-
-```
-fr
-```
-
-United Kingdom:
-
-```
-gb
-```
 
 The script automatically discovers all available servers in that country.
 
@@ -209,31 +198,9 @@ The script automatically discovers all available servers in that country.
 
 Example:
 
-```
-NordVPN Server Optimizer
+<img width="969" height="1382" alt="image" src="https://github.com/user-attachments/assets/86624433-aa62-4d2a-89a8-32a1361ebef0" />
 
-Downloading NordVPN server list...
 
-Enter country code:
-de
-
-Found 697 servers
-
-Testing NordVPN servers...
-
-de678.nordvpn.com Ping=19.67ms Load=12%
-de680.nordvpn.com Ping=21.33ms Load=8%
-de681.nordvpn.com Ping=21.67ms Load=15%
-
-===== TOP 10 SERVERS =====
-
-Server                  Ping     Jitter    Load    Score
----------------------------------------------------------
-de680.nordvpn.com       21.33ms  1ms       8%      13.04
-de678.nordvpn.com       19.67ms  2ms       12%     13.85
-```
-
----
 
 # Output File
 
