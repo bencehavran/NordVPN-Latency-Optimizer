@@ -71,10 +71,9 @@ Check your version:
 
 ```powershell
 $PSVersionTable.PSVersion
+```
 
 PowerShell 7 is also supported.
-
-NordVPN Account
 
 You need:
 
